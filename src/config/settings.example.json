@@ -1,0 +1,5 @@
+{
+    "retry_attempts": 3,
+    "timeout_seconds": 10,
+    "output_format": "json"
+}
